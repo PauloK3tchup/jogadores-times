@@ -1,0 +1,29 @@
+{
+  "jogadores": [
+    {
+      "id": 1,
+      "nome": "Ronaldão",
+      "n_camisa": "25"
+    },
+    {
+      "id": 2,
+      "nome": "Ronaldinho",
+      "n_camisa": "23"
+    },
+    {
+      "id": 3,
+      "nome": "Ronaldo",
+      "n_camisa": "24"
+    }
+  ],
+  "times": [
+    {
+      "id": 1,
+      "nome": "Paumeras"
+    },
+    {
+      "nome": "HAHAHAH ELE MUDA",
+      "id": 5
+    }
+  ]
+}
