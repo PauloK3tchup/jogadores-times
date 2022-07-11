@@ -1,29 +1,58 @@
 {
-  "jogadores": [
+  "editoras": [
     {
       "id": 1,
-      "nome": "Ronaldão",
-      "n_camisa": "25"
+      "nome": "Edidora",
+      "site": "edidora.cum"
     },
     {
       "id": 2,
-      "nome": "Ronaldinho",
-      "n_camisa": "23"
+      "nome": "Edidora 2",
+      "site": "nemfodendo.com"
     },
     {
       "id": 3,
-      "nome": "Ronaldo",
-      "n_camisa": "24"
+      "nome": "Edidora 3: English patch",
+      "site": "notevenfucking.com"
     }
   ],
-  "times": [
+  "autores": [
     {
       "id": 1,
-      "nome": "Paumeras"
+      "nome": "Monteiro Meusaco",
+      "data": "0001-01-01"
     },
     {
-      "nome": "HAHAHAH ELE MUDA",
-      "id": 5
+      "id": 2,
+      "nome": "JK Rola",
+      "data": "0001-01-01"
+    },
+    {
+      "id": 3,
+      "nome": "Steven Rei",
+      "data": "0001-01-01"
+    },
+    {
+      "nome": "Fabio Longo de Moura",
+      "data": "1403-07-11",
+      "id": 4
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Ação",
+      "obs": "Livros de ação"
+    },
+    {
+      "id": 2,
+      "nome": "Suspense",
+      "obs": "Livros de suspense/mistério"
+    },
+    {
+      "id": 3,
+      "nome": "Morbius",
+      "obs": "Morbius"
     }
   ]
 }
