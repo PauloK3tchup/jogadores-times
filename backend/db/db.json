@@ -14,6 +14,11 @@
       "id": 3,
       "nome": "Edidora 3: English patch",
       "site": "notevenfucking.com"
+    },
+    {
+      "nome": "Editora 4: Dr. Nefardio Productions",
+      "site": "https://nerfadex.com",
+      "id": 4
     }
   ],
   "autores": [
@@ -36,6 +41,16 @@
       "nome": "Fabio Longo de Moura",
       "data": "1403-07-11",
       "id": 4
+    },
+    {
+      "nome": "Mano J.C",
+      "data": "0001-12-25",
+      "id": 5
+    },
+    {
+      "nome": "Fabio Curto de Moura",
+      "data": "2022-07-28",
+      "id": 6
     }
   ],
   "categorias": [
@@ -53,6 +68,60 @@
       "id": 3,
       "nome": "Morbius",
       "obs": "Morbius"
+    },
+    {
+      "nome": "Minions",
+      "obs": "Gru",
+      "id": 4
+    }
+  ],
+  "livros": [
+    {
+      "id": 1,
+      "nome": "Harry Poggers",
+      "autor": "JK Rola",
+      "categoria": "Morbius",
+      "paginas": "1 morbilhão",
+      "preco": "23",
+      "data": "2012-12-12",
+      "idioma": "bri'ish",
+      "editora": "Teu Pai LTDA",
+      "isbn": "127-542-488-55"
+    },
+    {
+      "nome": "Cu",
+      "categoria": "nome",
+      "id": 2
+    },
+    {
+      "nome": "Cu",
+      "categoria": "nome",
+      "id": 3
+    },
+    {
+      "nome": "Cu",
+      "categoria": "nome",
+      "id": 4
+    },
+    {
+      "nome": "Cu",
+      "categoria": "nome",
+      "id": 5
+    },
+    {
+      "nome": "Cu",
+      "categoria": "nome",
+      "id": 6
+    },
+    {
+      "nome": "Cu",
+      "categoria": "nome",
+      "id": 7
+    },
+    {
+      "nome": "Cu",
+      "categoria": "nome",
+      "id": 8
     }
   ]
 }
