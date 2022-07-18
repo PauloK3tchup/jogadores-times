@@ -19,6 +19,16 @@
       "nome": "Editora 4: Dr. Nefardio Productions",
       "site": "https://nerfadex.com",
       "id": 4
+    },
+    {
+      "nome": "Mobius JetsKis",
+      "site": "mobiussemor.cum.br",
+      "id": 5
+    },
+    {
+      "nome": "White Productions",
+      "site": "walterwhiters.com.br",
+      "id": 6
     }
   ],
   "autores": [
@@ -51,6 +61,16 @@
       "nome": "Fabio Curto de Moura",
       "data": "2022-07-28",
       "id": 6
+    },
+    {
+      "nome": "Gru",
+      "data": "0001-01-01",
+      "id": 7
+    },
+    {
+      "nome": "Walter Hartwell \"Walt\" White Sr.",
+      "data": "1958-09-07",
+      "id": 8
     }
   ],
   "categorias": [
@@ -73,6 +93,16 @@
       "nome": "Minions",
       "obs": "Gru",
       "id": 4
+    },
+    {
+      "nome": "Grutastico",
+      "obs": "Gru fantástico",
+      "id": 5
+    },
+    {
+      "nome": "Tutoriais Bons",
+      "obs": "Como fazer coisas",
+      "id": 6
     }
   ],
   "livros": [
@@ -87,6 +117,18 @@
       "idioma": "bri'ish",
       "editora": "Teu Pai LTDA",
       "isbn": "127-542-488-55"
+    },
+    {
+      "nome": "Tutorial Passo a Passo para ingressar no Mercado de Venda de Metanfetamina",
+      "categoria": "Tutoriais Bons",
+      "preco": 150000,
+      "data": "2022-07-18",
+      "paginas": 9,
+      "idioma": "Whitês",
+      "isbn": "4378932",
+      "autor": "Walter Hartwell \"Walt\" White Sr.",
+      "editora": "White Productions",
+      "id": 2
     }
   ]
 }
